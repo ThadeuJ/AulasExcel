@@ -1,543 +1,543 @@
-Vendedor;Cidade;nº Vendas; Valor 
-Luciano;Salto de Pirapora;41; R$ 3.530,50 
-Cristiano;Salto de Pirapora;74; R$ 7.316,95 
-Thadeu;Sorocaba;140; R$ 10.636,07 
-Isabela;Itu;68; R$ 5.669,51 
-Stefanie;Sorocaba;36; R$ 2.718,76 
-Luciano;Sorocaba;107; R$ 9.761,31 
-Thadeu;Itu;124; R$ 11.436,01 
-Stefanie;Sorocaba;90; R$ 7.087,81 
-Stefanie;Aluminio;90; R$ 13.021,58 
-Nicole;Votorantim;115; R$ 11.706,27 
-Isabela;Itu;78; R$ 8.663,29 
-Thadeu;Sorocaba;77; R$ 7.104,14 
-Cristiano;Votorantim;100; R$ 6.020,21 
-Isabela;Sorocaba;15; R$ 800,66 
-Isabela;Sorocaba;68; R$ 5.372,78 
-Thadeu;Piedade;141; R$ 14.786,35 
-Nicole;Aluminio;111; R$ 5.208,35 
-Thadeu;Sorocaba;143; R$ 6.761,55 
-Isabela;Sorocaba;23; R$ 3.441,83 
-Nicole;Votorantim;71; R$ 1.192,15 
-Luciano;Itu;96; R$ 11.333,44 
-Thadeu;Sorocaba;23; R$ 1.959,71 
-Thadeu;Itu;63; R$ 836,99 
-Isabela;Sorocaba;20; R$ 2.865,79 
-Thadeu;Votorantim;21; R$ 517,84 
-Luciano;Itu;97; R$ 6.246,39 
-Thadeu;Aluminio;71; R$ 8.075,88 
-Thadeu;Salto de Pirapora;132; R$ 14.090,24 
-Nicole;Aluminio;52; R$ 6.919,60 
-Thadeu;Sorocaba;45; R$ 3.495,76 
-Isabela;Sorocaba;45; R$ 6.037,43 
-Isabela;Salto de Pirapora;136; R$ 3.802,93 
-Stefanie;Aluminio;61; R$ 972,80 
-Nicole;Salto de Pirapora;31; R$ 2.990,83 
-Nicole;Itu;111; R$ 9.271,16 
-Cristiano;Itu;79; R$ 5.959,20 
-Cristiano;Itu;12; R$ 55,07 
-Nicole;Aluminio;71; R$ 8.282,89 
-Thadeu;Piedade;121; R$ 17.050,32 
-Stefanie;Aluminio;47; R$ 5.470,05 
-Cristiano;Piedade;89; R$ 9.422,90 
-Stefanie;Itu;45; R$ 5.029,99 
-Cristiano;Votorantim;28; R$ 2.520,34 
-Luciano;Itu;76; R$ 10.788,68 
-Stefanie;Aluminio;22; R$ 106,86 
-Isabela;Salto de Pirapora;88; R$ 1.350,50 
-Luciano;Salto de Pirapora;44; R$ 4.431,69 
-Cristiano;Itu;145; R$ 15.502,51 
-Isabela;Aluminio;27; R$ 1.702,12 
-Nicole;Sorocaba;22; R$ 1.749,30 
-Cristiano;Sorocaba;33; R$ 3.441,64 
-Isabela;Sorocaba;14; R$ 1.683,53 
-Cristiano;Itu;70; R$ 4.023,18 
-Stefanie;Votorantim;81; R$ 8.021,20 
-Luciano;Aluminio;31; R$ 2.447,58 
-Isabela;Itu;89; R$ 10.339,98 
-Cristiano;Votorantim;128; R$ 13.628,16 
-Nicole;Sorocaba;128; R$ 3.201,37 
-Nicole;Votorantim;144; R$ 1.023,67 
-Isabela;Itu;52; R$ 5.201,78 
-Isabela;Sorocaba;150; R$ 3.229,28 
-Nicole;Itu;106; R$ 7.190,03 
-Thadeu;Itu;102; R$ 6.632,13 
-Nicole;Aluminio;51; R$ 3.188,29 
-Stefanie;Salto de Pirapora;89; R$ 4.862,01 
-Cristiano;Aluminio;145; R$ 15.677,94 
-Cristiano;Votorantim;34; R$ 4.252,61 
-Cristiano;Piedade;103; R$ 1.160,02 
-Isabela;Sorocaba;111; R$ 2.072,57 
-Cristiano;Itu;88; R$ 8.657,79 
-Luciano;Itu;88; R$ 5.002,83 
-Nicole;Aluminio;102; R$ 10.216,01 
-Isabela;Sorocaba;78; R$ 36,85 
-Thadeu;Salto de Pirapora;87; R$ 3.072,88 
-Nicole;Sorocaba;100; R$ 8.760,48 
-Thadeu;Salto de Pirapora;27; R$ 645,91 
-Cristiano;Aluminio;75; R$ 7.670,62 
-Nicole;Salto de Pirapora;29; R$ 220,54 
-Thadeu;Itu;40; R$ 2.551,49 
-Stefanie;Aluminio;118; R$ 5.553,98 
-Thadeu;Itu;140; R$ 3.905,01 
-Stefanie;Piedade;77; R$ 5.349,65 
-Isabela;Votorantim;83; R$ 1.045,11 
-Luciano;Votorantim;88; R$ 1.719,07 
-Nicole;Sorocaba;13; R$ 880,19 
-Thadeu;Itu;25; R$ 3.294,12 
-Stefanie;Itu;100; R$ 4.805,53 
-Thadeu;Votorantim;76; R$ 5.519,58 
-Isabela;Aluminio;85; R$ 10.098,75 
-Stefanie;Aluminio;11; R$ 1.637,72 
-Cristiano;Piedade;55; R$ 6.562,36 
-Luciano;Salto de Pirapora;62; R$ 7.788,29 
-Nicole;Piedade;88; R$ 787,53 
-Luciano;Votorantim;42; R$ 1.721,58 
-Stefanie;Votorantim;129; R$ 12.575,28 
-Isabela;Votorantim;36; R$ 2.976,36 
-Stefanie;Piedade;126; R$ 12.835,74 
-Cristiano;Votorantim;140; R$ 8.428,43 
-Cristiano;Sorocaba;108; R$ 3.283,57 
-Isabela;Piedade;136; R$ 5.810,14 
-Stefanie;Sorocaba;71; R$ 10.103,10 
-Nicole;Aluminio;45; R$ 2.464,91 
-Stefanie;Sorocaba;25; R$ 64,79 
-Luciano;Sorocaba;96; R$ 5.666,18 
-Isabela;Salto de Pirapora;74; R$ 382,04 
-Thadeu;Aluminio;113; R$ 10.123,11 
-Isabela;Salto de Pirapora;132; R$ 3.289,61 
-Nicole;Itu;40; R$ 3.676,30 
-Isabela;Salto de Pirapora;12; R$ 935,04 
-Thadeu;Sorocaba;150; R$ 6.501,13 
-Stefanie;Piedade;69; R$ 5.693,66 
-Stefanie;Piedade;110; R$ 2.662,28 
-Isabela;Sorocaba;80; R$ 11.702,13 
-Isabela;Sorocaba;111; R$ 16.008,14 
-Luciano;Sorocaba;91; R$ 2.567,05 
-Stefanie;Sorocaba;19; R$ 1.416,31 
-Luciano;Aluminio;26; R$ 2.418,95 
-Cristiano;Votorantim;122; R$ 12.563,08 
-Cristiano;Salto de Pirapora;36; R$ 2.323,23 
-Cristiano;Sorocaba;129; R$ 101,28 
-Stefanie;Salto de Pirapora;12; R$ 226,71 
-Luciano;Piedade;120; R$ 5.490,92 
-Nicole;Sorocaba;51; R$ 547,18 
-Stefanie;Sorocaba;44; R$ 1.527,66 
-Stefanie;Piedade;65; R$ 1.709,06 
-Nicole;Itu;103; R$ 8.657,69 
-Nicole;Sorocaba;85; R$ 7.362,74 
-Stefanie;Salto de Pirapora;137; R$ 2.798,00 
-Stefanie;Votorantim;131; R$ 12.358,47 
-Cristiano;Salto de Pirapora;85; R$ 6.861,92 
-Isabela;Votorantim;107; R$ 15.837,79 
-Isabela;Salto de Pirapora;26; R$ 2.910,91 
-Luciano;Sorocaba;104; R$ 11.170,91 
-Luciano;Piedade;68; R$ 2.995,38 
-Isabela;Piedade;16; R$ 636,66 
-Isabela;Piedade;98; R$ 6.840,64 
-Stefanie;Salto de Pirapora;69; R$ 2.413,06 
-Thadeu;Sorocaba;52; R$ 3.692,86 
-Isabela;Sorocaba;118; R$ 6.530,19 
-Nicole;Votorantim;61; R$ 816,93 
-Isabela;Sorocaba;19; R$ 412,63 
-Cristiano;Sorocaba;118; R$ 12.168,90 
-Cristiano;Aluminio;17; R$ 1.819,04 
-Nicole;Itu;36; R$ 2.816,58 
-Isabela;Aluminio;21; R$ 2.499,07 
-Thadeu;Votorantim;121; R$ 8.675,97 
-Stefanie;Votorantim;121; R$ 7.082,87 
-Isabela;Aluminio;13; R$ 1.339,40 
-Nicole;Piedade;78; R$ 1.916,69 
-Stefanie;Votorantim;19; R$ 333,34 
-Isabela;Piedade;127; R$ 7.977,25 
-Thadeu;Piedade;77; R$ 8.918,62 
-Luciano;Piedade;49; R$ 2.722,80 
-Nicole;Piedade;80; R$ 1.158,32 
-Stefanie;Aluminio;37; R$ 4.368,85 
-Thadeu;Votorantim;120; R$ 3.957,28 
-Luciano;Votorantim;34; R$ 1.086,59 
-Luciano;Piedade;149; R$ 13.035,16 
-Isabela;Salto de Pirapora;62; R$ 7.586,11 
-Isabela;Sorocaba;148; R$ 17.187,30 
-Stefanie;Itu;137; R$ 15.632,37 
-Nicole;Piedade;56; R$ 5.090,91 
-Nicole;Itu;88; R$ 6.736,42 
-Cristiano;Piedade;28; R$ 2.588,64 
-Thadeu;Piedade;124; R$ 8.525,79 
-Cristiano;Sorocaba;96; R$ 13.727,44 
-Thadeu;Piedade;149; R$ 8.129,61 
-Thadeu;Salto de Pirapora;137; R$ 14.817,00 
-Cristiano;Salto de Pirapora;96; R$ 5.303,11 
-Nicole;Sorocaba;42; R$ 4.196,21 
-Thadeu;Piedade;43; R$ 2.685,09 
-Nicole;Votorantim;97; R$ 14.144,96 
-Stefanie;Aluminio;118; R$ 16.154,77 
-Isabela;Itu;66; R$ 3.311,64 
-Luciano;Votorantim;50; R$ 3.148,18 
-Isabela;Aluminio;117; R$ 14.362,84 
-Luciano;Sorocaba;107; R$ 3.289,28 
-Thadeu;Itu;19; R$ 627,94 
-Nicole;Sorocaba;83; R$ 2.847,33 
-Stefanie;Sorocaba;90; R$ 5.946,43 
-Stefanie;Salto de Pirapora;109; R$ 14.034,41 
-Isabela;Votorantim;72; R$ 10.476,95 
-Thadeu;Piedade;30; R$ 4.364,24 
-Nicole;Salto de Pirapora;62; R$ 4.201,44 
-Cristiano;Aluminio;28; R$ 4.023,34 
-Stefanie;Piedade;100; R$ 2.522,82 
-Stefanie;Aluminio;95; R$ 3.110,57 
-Cristiano;Salto de Pirapora;122; R$ 1.980,94 
-Luciano;Itu;57; R$ 2.814,40 
-Nicole;Salto de Pirapora;91; R$ 8.820,75 
-Isabela;Aluminio;148; R$ 10.415,04 
-Luciano;Aluminio;96; R$ 11.668,13 
-Thadeu;Votorantim;41; R$ 1.917,22 
-Cristiano;Itu;75; R$ 7.651,71 
-Isabela;Piedade;53; R$ 7.699,85 
-Isabela;Itu;53; R$ 4.545,75 
-Isabela;Salto de Pirapora;136; R$ 1.989,61 
-Stefanie;Votorantim;11; R$ 1.315,89 
-Luciano;Aluminio;68; R$ 664,19 
-Stefanie;Itu;112; R$ 3.867,44 
-Cristiano;Itu;107; R$ 10.746,70 
-Stefanie;Votorantim;37; R$ 3.362,85 
-Luciano;Itu;27; R$ 2.099,53 
-Luciano;Sorocaba;22; R$ 690,16 
-Thadeu;Aluminio;25; R$ 509,04 
-Nicole;Aluminio;13; R$ 1.921,96 
-Cristiano;Salto de Pirapora;89; R$ 6.932,47 
-Cristiano;Sorocaba;118; R$ 9.829,19 
-Cristiano;Piedade;127; R$ 10.474,91 
-Cristiano;Piedade;96; R$ 1.455,09 
-Nicole;Aluminio;68; R$ 6.544,11 
-Cristiano;Aluminio;24; R$ 1.952,31 
-Cristiano;Sorocaba;105; R$ 8.668,43 
-Isabela;Votorantim;58; R$ 7.412,97 
-Nicole;Piedade;130; R$ 9.985,77 
-Cristiano;Aluminio;136; R$ 17.770,29 
-Stefanie;Sorocaba;69; R$ 2.758,21 
-Cristiano;Itu;119; R$ 3.783,83 
-Stefanie;Piedade;33; R$ 4.004,57 
-Stefanie;Votorantim;114; R$ 1.860,94 
-Stefanie;Salto de Pirapora;110; R$ 11.857,89 
-Cristiano;Votorantim;31; R$ 2.664,16 
-Stefanie;Votorantim;71; R$ 7.668,64 
-Stefanie;Piedade;73; R$ 142,94 
-Nicole;Aluminio;135; R$ 17.798,06 
-Cristiano;Itu;116; R$ 12.142,67 
-Stefanie;Salto de Pirapora;118; R$ 6.074,80 
-Thadeu;Itu;23; R$ 2.621,23 
-Luciano;Salto de Pirapora;124; R$ 8.864,21 
-Cristiano;Piedade;119; R$ 11.409,56 
-Cristiano;Sorocaba;146; R$ 6.331,47 
-Isabela;Sorocaba;149; R$ 8.089,49 
-Thadeu;Salto de Pirapora;112; R$ 8.627,06 
-Thadeu;Aluminio;88; R$ 2.559,62 
-Stefanie;Salto de Pirapora;10; R$ 1.273,86 
-Luciano;Salto de Pirapora;14; R$ 316,42 
-Luciano;Aluminio;30; R$ 1.238,67 
-Stefanie;Itu;100; R$ 1.438,08 
-Luciano;Salto de Pirapora;50; R$ 1.193,41 
-Thadeu;Aluminio;134; R$ 3.719,79 
-Luciano;Salto de Pirapora;14; R$ 756,93 
-Isabela;Votorantim;68; R$ 6.766,22 
-Nicole;Votorantim;49; R$ 2.238,52 
-Thadeu;Itu;89; R$ 10.734,17 
-Thadeu;Salto de Pirapora;93; R$ 7.231,44 
-Cristiano;Votorantim;34; R$ 157,01 
-Luciano;Sorocaba;17; R$ 333,30 
-Cristiano;Votorantim;123; R$ 18.232,16 
-Luciano;Votorantim;39; R$ 5.131,54 
-Luciano;Votorantim;100; R$ 14.293,98 
-Isabela;Piedade;66; R$ 7.008,34 
-Stefanie;Itu;19; R$ 1.670,58 
-Nicole;Aluminio;59; R$ 8.785,60 
-Cristiano;Itu;14; R$ 1.852,31 
-Nicole;Votorantim;146; R$ 11.056,11 
-Thadeu;Salto de Pirapora;86; R$ 5.045,63 
-Cristiano;Votorantim;90; R$ 4.851,20 
-Stefanie;Sorocaba;55; R$ 1.771,05 
-Thadeu;Sorocaba;90; R$ 31,62 
-Cristiano;Salto de Pirapora;90; R$ 6.296,72 
-Luciano;Aluminio;20; R$ 233,33 
-Luciano;Piedade;91; R$ 9.210,58 
-Nicole;Sorocaba;32; R$ 3.791,14 
-Stefanie;Salto de Pirapora;75; R$ 3.194,07 
-Thadeu;Sorocaba;116; R$ 11.505,70 
-Thadeu;Votorantim;117; R$ 12.131,90 
-Stefanie;Aluminio;55; R$ 3.791,60 
-Thadeu;Salto de Pirapora;97; R$ 12.354,54 
-Thadeu;Salto de Pirapora;62; R$ 5.372,95 
-Nicole;Piedade;66; R$ 8.937,55 
-Isabela;Salto de Pirapora;20; R$ 431,75 
-Cristiano;Itu;98; R$ 10.757,27 
-Stefanie;Sorocaba;63; R$ 5.176,28 
-Nicole;Salto de Pirapora;77; R$ 8.718,11 
-Isabela;Itu;93; R$ 6.401,71 
-Stefanie;Aluminio;17; R$ 2.106,41 
-Cristiano;Salto de Pirapora;28; R$ 1.703,69 
-Thadeu;Piedade;101; R$ 7.564,29 
-Nicole;Piedade;62; R$ 7.555,96 
-Isabela;Votorantim;40; R$ 4.144,49 
-Thadeu;Sorocaba;95; R$ 4.577,68 
-Luciano;Salto de Pirapora;31; R$ 2.105,63 
-Isabela;Sorocaba;133; R$ 10.166,38 
-Nicole;Votorantim;102; R$ 15.157,22 
-Stefanie;Aluminio;62; R$ 3.672,58 
-Isabela;Sorocaba;33; R$ 2.590,92 
-Thadeu;Salto de Pirapora;19; R$ 1.416,29 
-Isabela;Votorantim;123; R$ 13.643,96 
-Isabela;Piedade;46; R$ 721,41 
-Luciano;Piedade;53; R$ 2.675,64 
-Isabela;Piedade;25; R$ 235,98 
-Luciano;Votorantim;35; R$ 2.194,82 
-Cristiano;Votorantim;111; R$ 6.349,54 
-Luciano;Sorocaba;48; R$ 1.371,89 
-Stefanie;Aluminio;120; R$ 16.204,78 
-Luciano;Itu;39; R$ 796,32 
-Cristiano;Aluminio;82; R$ 5.115,99 
-Stefanie;Itu;15; R$ 2.099,14 
-Cristiano;Salto de Pirapora;68; R$ 8.683,30 
-Isabela;Aluminio;64; R$ 3.710,65 
-Cristiano;Sorocaba;68; R$ 8.835,67 
-Thadeu;Votorantim;54; R$ 7.119,28 
-Luciano;Aluminio;65; R$ 1.911,32 
-Stefanie;Itu;32; R$ 469,22 
-Thadeu;Aluminio;145; R$ 21.630,29 
-Nicole;Itu;63; R$ 300,97 
-Cristiano;Aluminio;112; R$ 12.860,94 
-Luciano;Piedade;114; R$ 7.159,82 
-Isabela;Sorocaba;138; R$ 8.301,36 
-Nicole;Piedade;108; R$ 10.637,35 
-Luciano;Sorocaba;28; R$ 3.158,30 
-Luciano;Piedade;131; R$ 3.983,02 
-Stefanie;Votorantim;66; R$ 8.063,84 
-Cristiano;Sorocaba;95; R$ 4.526,27 
-Thadeu;Sorocaba;115; R$ 7.314,59 
-Nicole;Votorantim;78; R$ 10.311,39 
-Nicole;Aluminio;51; R$ 131,02 
-Thadeu;Itu;68; R$ 5.714,74 
-Stefanie;Sorocaba;17; R$ 624,27 
-Nicole;Votorantim;12; R$ 1.420,10 
-Stefanie;Piedade;111; R$ 10.243,06 
-Cristiano;Salto de Pirapora;150; R$ 15.641,48 
-Luciano;Votorantim;101; R$ 11.261,78 
-Nicole;Salto de Pirapora;140; R$ 14.113,85 
-Isabela;Votorantim;45; R$ 6.466,36 
-Isabela;Votorantim;59; R$ 2.288,68 
-Thadeu;Piedade;138; R$ 14.740,28 
-Cristiano;Sorocaba;106; R$ 11.724,99 
-Thadeu;Aluminio;134; R$ 18.381,58 
-Isabela;Sorocaba;55; R$ 7.556,40 
-Stefanie;Aluminio;48; R$ 2.263,51 
-Stefanie;Piedade;129; R$ 4.698,82 
-Nicole;Piedade;104; R$ 1.752,68 
-Luciano;Salto de Pirapora;38; R$ 4.449,06 
-Stefanie;Itu;79; R$ 11.451,33 
-Isabela;Aluminio;22; R$ 2.877,72 
-Isabela;Votorantim;83; R$ 8.370,89 
-Isabela;Salto de Pirapora;130; R$ 18.937,13 
-Nicole;Votorantim;122; R$ 10.941,24 
-Thadeu;Piedade;46; R$ 1.252,27 
-Luciano;Salto de Pirapora;36; R$ 2.947,20 
-Luciano;Sorocaba;67; R$ 6.810,05 
-Cristiano;Salto de Pirapora;13; R$ 60,95 
-Luciano;Votorantim;40; R$ 4.532,03 
-Thadeu;Sorocaba;91; R$ 4.757,15 
-Luciano;Salto de Pirapora;48; R$ 375,86 
-Isabela;Sorocaba;142; R$ 16.709,84 
-Thadeu;Salto de Pirapora;77; R$ 5.176,54 
-Cristiano;Itu;83; R$ 9.526,81 
-Stefanie;Votorantim;38; R$ 895,14 
-Isabela;Itu;96; R$ 12.515,07 
-Thadeu;Aluminio;115; R$ 13.623,62 
-Isabela;Sorocaba;150; R$ 10.310,84 
-Luciano;Sorocaba;98; R$ 1.743,53 
-Thadeu;Votorantim;141; R$ 2.845,84 
-Thadeu;Aluminio;50; R$ 4.024,28 
-Stefanie;Sorocaba;121; R$ 14.764,50 
-Stefanie;Itu;40; R$ 3.082,51 
-Nicole;Itu;75; R$ 5.502,23 
-Luciano;Piedade;23; R$ 2.630,19 
-Luciano;Sorocaba;94; R$ 5.886,92 
-Cristiano;Votorantim;44; R$ 3.431,23 
-Luciano;Aluminio;100; R$ 12.243,45 
-Isabela;Piedade;143; R$ 16.668,17 
-Isabela;Piedade;10; R$ 1.265,32 
-Nicole;Itu;59; R$ 5.882,99 
-Cristiano;Aluminio;21; R$ 26,51 
-Isabela;Votorantim;17; R$ 340,81 
-Stefanie;Votorantim;132; R$ 8.013,64 
-Nicole;Sorocaba;28; R$ 2.415,96 
-Luciano;Aluminio;103; R$ 586,62 
-Luciano;Itu;81; R$ 10.028,11 
-Stefanie;Itu;82; R$ 1.835,72 
-Cristiano;Itu;124; R$ 5.683,31 
-Stefanie;Votorantim;26; R$ 3.743,12 
-Cristiano;Votorantim;137; R$ 20.189,14 
-Thadeu;Itu;75; R$ 403,50 
-Luciano;Salto de Pirapora;45; R$ 87,55 
-Cristiano;Sorocaba;48; R$ 3.630,94 
-Isabela;Itu;142; R$ 12.845,55 
-Cristiano;Aluminio;111; R$ 4.534,12 
-Luciano;Itu;139; R$ 19.374,04 
-Cristiano;Itu;12; R$ 47,22 
-Nicole;Votorantim;49; R$ 2.699,31 
-Nicole;Itu;69; R$ 5.427,55 
-Cristiano;Votorantim;42; R$ 1.695,68 
-Nicole;Sorocaba;99; R$ 14.171,09 
-Thadeu;Votorantim;41; R$ 4.213,01 
-Nicole;Salto de Pirapora;38; R$ 777,13 
-Cristiano;Piedade;48; R$ 7.034,06 
-Stefanie;Aluminio;20; R$ 1.506,56 
-Thadeu;Aluminio;133; R$ 1.402,98 
-Cristiano;Itu;18; R$ 1.904,14 
-Stefanie;Piedade;33; R$ 3.645,63 
-Isabela;Piedade;20; R$ 2.131,70 
-Nicole;Salto de Pirapora;121; R$ 112,68 
-Thadeu;Sorocaba;111; R$ 10.974,12 
-Stefanie;Itu;70; R$ 3.422,30 
-Thadeu;Salto de Pirapora;123; R$ 14.621,90 
-Stefanie;Itu;58; R$ 3.893,52 
-Thadeu;Piedade;11; R$ 1.269,87 
-Isabela;Votorantim;59; R$ 6.661,41 
-Isabela;Itu;104; R$ 469,82 
-Stefanie;Piedade;17; R$ 2.211,94 
-Stefanie;Sorocaba;45; R$ 2.073,69 
-Stefanie;Sorocaba;132; R$ 10.530,48 
-Isabela;Piedade;79; R$ 7.095,28 
-Cristiano;Piedade;63; R$ 7.996,35 
-Luciano;Salto de Pirapora;150; R$ 3.375,24 
-Isabela;Salto de Pirapora;94; R$ 13.526,05 
-Cristiano;Itu;20; R$ 131,03 
-Thadeu;Piedade;106; R$ 11.363,05 
-Stefanie;Aluminio;138; R$ 5.250,59 
-Thadeu;Itu;65; R$ 8.437,21 
-Cristiano;Piedade;65; R$ 6.089,79 
-Luciano;Salto de Pirapora;99; R$ 8.387,75 
-Thadeu;Salto de Pirapora;128; R$ 4.546,15 
-Cristiano;Votorantim;129; R$ 14.794,21 
-Nicole;Piedade;122; R$ 576,38 
-Cristiano;Aluminio;96; R$ 9.131,37 
-Stefanie;Itu;129; R$ 8.585,49 
-Isabela;Salto de Pirapora;51; R$ 4.973,80 
-Cristiano;Votorantim;77; R$ 8.074,78 
-Luciano;Votorantim;13; R$ 230,88 
-Luciano;Sorocaba;48; R$ 631,71 
-Cristiano;Aluminio;33; R$ 432,79 
-Thadeu;Piedade;99; R$ 5.013,78 
-Thadeu;Piedade;24; R$ 994,49 
-Thadeu;Aluminio;74; R$ 4.655,08 
-Nicole;Piedade;76; R$ 10.767,44 
-Nicole;Aluminio;80; R$ 10.784,13 
-Nicole;Piedade;68; R$ 163,33 
-Luciano;Votorantim;101; R$ 6.923,17 
-Stefanie;Sorocaba;43; R$ 4.133,48 
-Cristiano;Salto de Pirapora;95; R$ 11.765,51 
-Isabela;Aluminio;116; R$ 13.857,54 
-Isabela;Piedade;126; R$ 17.258,87 
-Isabela;Salto de Pirapora;75; R$ 858,48 
-Thadeu;Votorantim;85; R$ 3.333,60 
-Luciano;Votorantim;75; R$ 545,97 
-Luciano;Salto de Pirapora;30; R$ 3.788,04 
-Cristiano;Sorocaba;112; R$ 9.694,29 
-Nicole;Aluminio;108; R$ 1.993,41 
-Cristiano;Votorantim;96; R$ 11.262,48 
-Luciano;Itu;53; R$ 6.165,47 
-Luciano;Votorantim;142; R$ 4.508,05 
-Isabela;Aluminio;111; R$ 15.542,17 
-Stefanie;Votorantim;140; R$ 10.948,68 
-Thadeu;Sorocaba;39; R$ 1.364,69 
-Thadeu;Aluminio;98; R$ 5.065,36 
-Stefanie;Aluminio;38; R$ 1.449,88 
-Cristiano;Votorantim;113; R$ 9.565,51 
-Isabela;Sorocaba;132; R$ 4.087,77 
-Luciano;Itu;134; R$ 2.516,20 
-Isabela;Sorocaba;68; R$ 3.703,87 
-Isabela;Salto de Pirapora;87; R$ 64,74 
-Stefanie;Aluminio;70; R$ 4.104,41 
-Luciano;Votorantim;115; R$ 167,24 
-Luciano;Itu;148; R$ 4.621,75 
-Thadeu;Aluminio;80; R$ 10.596,96 
-Cristiano;Sorocaba;98; R$ 4.104,50 
-Stefanie;Itu;46; R$ 478,83 
-Nicole;Salto de Pirapora;123; R$ 12.766,54 
-Isabela;Aluminio;141; R$ 651,05 
-Luciano;Sorocaba;53; R$ 5.518,11 
-Thadeu;Itu;134; R$ 17.970,41 
-Isabela;Salto de Pirapora;26; R$ 2.875,88 
-Isabela;Salto de Pirapora;107; R$ 12.260,67 
-Luciano;Aluminio;105; R$ 2.086,60 
-Nicole;Votorantim;77; R$ 5.888,55 
-Isabela;Aluminio;59; R$ 3.459,67 
-Stefanie;Aluminio;142; R$ 5.926,70 
-Isabela;Sorocaba;19; R$ 1.782,54 
-Thadeu;Salto de Pirapora;65; R$ 623,64 
-Nicole;Salto de Pirapora;85; R$ 5.557,39 
-Luciano;Piedade;147; R$ 13.594,89 
-Stefanie;Votorantim;127; R$ 18.049,33 
-Nicole;Sorocaba;34; R$ 497,56 
-Isabela;Sorocaba;70; R$ 5.837,09 
-Luciano;Itu;87; R$ 4.704,22 
-Thadeu;Itu;136; R$ 10.567,62 
-Stefanie;Aluminio;138; R$ 253,69 
-Luciano;Votorantim;53; R$ 376,32 
-Luciano;Salto de Pirapora;72; R$ 6.160,67 
-Stefanie;Votorantim;82; R$ 5.937,69 
-Isabela;Aluminio;74; R$ 4.247,78 
-Luciano;Salto de Pirapora;58; R$ 6.440,73 
-Isabela;Piedade;86; R$ 12.210,91 
-Cristiano;Piedade;99; R$ 1.238,15 
-Luciano;Aluminio;30; R$ 3.120,94 
-Cristiano;Sorocaba;144; R$ 16.775,56 
-Nicole;Sorocaba;136; R$ 10.783,33 
-Thadeu;Itu;20; R$ 2.772,52 
-Cristiano;Sorocaba;141; R$ 16.749,71 
-Cristiano;Salto de Pirapora;93; R$ 13.008,68 
-Cristiano;Sorocaba;64; R$ 8.986,60 
-Luciano;Piedade;63; R$ 5.448,44 
-Stefanie;Salto de Pirapora;81; R$ 11.767,44 
-Stefanie;Salto de Pirapora;58; R$ 4.554,38 
-Cristiano;Itu;99; R$ 126,00 
-Luciano;Piedade;73; R$ 4.414,43 
-Nicole;Aluminio;83; R$ 2.982,50 
-Cristiano;Aluminio;16; R$ 281,82 
-Thadeu;Aluminio;12; R$ 761,27 
-Luciano;Votorantim;130; R$ 6.513,54 
-Luciano;Salto de Pirapora;88; R$ 5.142,77 
-Luciano;Salto de Pirapora;122; R$ 17.342,91 
-Cristiano;Votorantim;62; R$ 7.967,92 
-Nicole;Piedade;98; R$ 5.073,40 
-Nicole;Piedade;64; R$ 2.833,82 
-Thadeu;Votorantim;23; R$ 1.876,69 
-Nicole;Piedade;49; R$ 2.492,07 
-Thadeu;Sorocaba;26; R$ 3.052,07 
-Luciano;Salto de Pirapora;120; R$ 8.314,19 
-Thadeu;Salto de Pirapora;36; R$ 2.676,04 
-Luciano;Piedade;110; R$ 5.598,44 
-Nicole;Aluminio;50; R$ 5.194,36 
-Isabela;Aluminio;147; R$ 20.543,57 
-Cristiano;Sorocaba;103; R$ 10.827,63 
-Thadeu;Salto de Pirapora;123; R$ 9.476,88 
-Nicole;Votorantim;56; R$ 5.839,24 
-Thadeu;Aluminio;81; R$ 8.848,81 
-Nicole;Itu;99; R$ 7.943,69 
-Isabela;Sorocaba;15; R$ 684,06 
-Stefanie;Piedade;48; R$ 3.117,38 
-Isabela;Piedade;74; R$ 692,29 
-Luciano;Sorocaba;14; R$ 1.873,96 
-Thadeu;Aluminio;92; R$ 3.953,06 
-Isabela;Salto de Pirapora;126; R$ 4.550,96 
-Isabela;Piedade;27; R$ 4.039,36 
-Stefanie;Aluminio;77; R$ 4.464,73 
-Isabela;Sorocaba;108; R$ 1.373,21 
-Cristiano;Votorantim;146; R$ 18.107,65 
-Cristiano;Sorocaba;15; R$ 1.527,45 
-Isabela;Itu;88; R$ 3.065,27 
-Luciano;Salto de Pirapora;143; R$ 15.171,51 
-Thadeu;Sorocaba;25; R$ 2.966,67 
-Nicole;Itu;83; R$ 6.881,89 
-Nicole;Salto de Pirapora;113; R$ 1.294,37 
-Cristiano;Aluminio;85; R$ 6.059,59 
-Cristiano;Itu;61; R$ 4.730,63 
-Nicole;Aluminio;117; R$ 4.556,34 
+Data;Vendedor;Cidade;nº Vendas; Valor 
+13/05/2024;Luciano;Salto de Pirapora;41;R$ 3.530,50
+13/05/2024;Cristiano;Salto de Pirapora;74;R$ 7.316,95
+13/05/2024;Thadeu;Sorocaba;140;R$ 10.636,07
+04/05/2024;Isabela;Itu;68;R$ 5.669,51
+04/05/2024;Stefanie;Sorocaba;36;R$ 2.718,76
+05/05/2024;Luciano;Sorocaba;107;R$ 9.761,31
+08/05/2024;Thadeu;Itu;124;R$ 11.436,01
+14/05/2024;Stefanie;Sorocaba;90;R$ 7.087,81
+05/05/2024;Stefanie;Aluminio;90;R$ 13.021,58
+12/05/2024;Nicole;Votorantim;115;R$ 11.706,27
+07/05/2024;Isabela;Itu;78;R$ 8.663,29
+12/05/2024;Thadeu;Sorocaba;77;R$ 7.104,14
+13/05/2024;Cristiano;Votorantim;100;R$ 6.020,21
+07/05/2024;Isabela;Sorocaba;15;R$ 800,66
+09/05/2024;Isabela;Sorocaba;68;R$ 5.372,78
+06/05/2024;Thadeu;Piedade;141;R$ 14.786,35
+06/05/2024;Nicole;Aluminio;111;R$ 5.208,35
+04/05/2024;Thadeu;Sorocaba;143;R$ 6.761,55
+13/05/2024;Isabela;Sorocaba;23;R$ 3.441,83
+10/05/2024;Nicole;Votorantim;71;R$ 1.192,15
+13/05/2024;Luciano;Itu;96;R$ 11.333,44
+11/05/2024;Thadeu;Sorocaba;23;R$ 1.959,71
+04/05/2024;Thadeu;Itu;63;R$ 836,99
+11/05/2024;Isabela;Sorocaba;20;R$ 2.865,79
+09/05/2024;Thadeu;Votorantim;21;R$ 517,84
+05/05/2024;Luciano;Itu;97;R$ 6.246,39
+06/05/2024;Thadeu;Aluminio;71;R$ 8.075,88
+07/05/2024;Thadeu;Salto de Pirapora;132;R$ 14.090,24
+07/05/2024;Nicole;Aluminio;52;R$ 6.919,60
+04/05/2024;Thadeu;Sorocaba;45;R$ 3.495,76
+04/05/2024;Isabela;Sorocaba;45;R$ 6.037,43
+12/05/2024;Isabela;Salto de Pirapora;136;R$ 3.802,93
+09/05/2024;Stefanie;Aluminio;61;R$ 972,80
+08/05/2024;Nicole;Salto de Pirapora;31;R$ 2.990,83
+08/05/2024;Nicole;Itu;111;R$ 9.271,16
+08/05/2024;Cristiano;Itu;79;R$ 5.959,20
+13/05/2024;Cristiano;Itu;12;R$ 55,07
+14/05/2024;Nicole;Aluminio;71;R$ 8.282,89
+10/05/2024;Thadeu;Piedade;121;R$ 17.050,32
+09/05/2024;Stefanie;Aluminio;47;R$ 5.470,05
+12/05/2024;Cristiano;Piedade;89;R$ 9.422,90
+12/05/2024;Stefanie;Itu;45;R$ 5.029,99
+04/05/2024;Cristiano;Votorantim;28;R$ 2.520,34
+12/05/2024;Luciano;Itu;76;R$ 10.788,68
+14/05/2024;Stefanie;Aluminio;22;R$ 106,86
+09/05/2024;Isabela;Salto de Pirapora;88;R$ 1.350,50
+04/05/2024;Luciano;Salto de Pirapora;44;R$ 4.431,69
+10/05/2024;Cristiano;Itu;145;R$ 15.502,51
+06/05/2024;Isabela;Aluminio;27;R$ 1.702,12
+13/05/2024;Nicole;Sorocaba;22;R$ 1.749,30
+07/05/2024;Cristiano;Sorocaba;33;R$ 3.441,64
+10/05/2024;Isabela;Sorocaba;14;R$ 1.683,53
+07/05/2024;Cristiano;Itu;70;R$ 4.023,18
+05/05/2024;Stefanie;Votorantim;81;R$ 8.021,20
+07/05/2024;Luciano;Aluminio;31;R$ 2.447,58
+14/05/2024;Isabela;Itu;89;R$ 10.339,98
+09/05/2024;Cristiano;Votorantim;128;R$ 13.628,16
+10/05/2024;Nicole;Sorocaba;128;R$ 3.201,37
+11/05/2024;Nicole;Votorantim;144;R$ 1.023,67
+09/05/2024;Isabela;Itu;52;R$ 5.201,78
+09/05/2024;Isabela;Sorocaba;150;R$ 3.229,28
+11/05/2024;Nicole;Itu;106;R$ 7.190,03
+07/05/2024;Thadeu;Itu;102;R$ 6.632,13
+12/05/2024;Nicole;Aluminio;51;R$ 3.188,29
+09/05/2024;Stefanie;Salto de Pirapora;89;R$ 4.862,01
+07/05/2024;Cristiano;Aluminio;145;R$ 15.677,94
+14/05/2024;Cristiano;Votorantim;34;R$ 4.252,61
+11/05/2024;Cristiano;Piedade;103;R$ 1.160,02
+05/05/2024;Isabela;Sorocaba;111;R$ 2.072,57
+08/05/2024;Cristiano;Itu;88;R$ 8.657,79
+11/05/2024;Luciano;Itu;88;R$ 5.002,83
+08/05/2024;Nicole;Aluminio;102;R$ 10.216,01
+13/05/2024;Isabela;Sorocaba;78;R$ 36,85
+05/05/2024;Thadeu;Salto de Pirapora;87;R$ 3.072,88
+07/05/2024;Nicole;Sorocaba;100;R$ 8.760,48
+06/05/2024;Thadeu;Salto de Pirapora;27;R$ 645,91
+14/05/2024;Cristiano;Aluminio;75;R$ 7.670,62
+05/05/2024;Nicole;Salto de Pirapora;29;R$ 220,54
+10/05/2024;Thadeu;Itu;40;R$ 2.551,49
+10/05/2024;Stefanie;Aluminio;118;R$ 5.553,98
+12/05/2024;Thadeu;Itu;140;R$ 3.905,01
+06/05/2024;Stefanie;Piedade;77;R$ 5.349,65
+13/05/2024;Isabela;Votorantim;83;R$ 1.045,11
+07/05/2024;Luciano;Votorantim;88;R$ 1.719,07
+10/05/2024;Nicole;Sorocaba;13;R$ 880,19
+08/05/2024;Thadeu;Itu;25;R$ 3.294,12
+07/05/2024;Stefanie;Itu;100;R$ 4.805,53
+09/05/2024;Thadeu;Votorantim;76;R$ 5.519,58
+13/05/2024;Isabela;Aluminio;85;R$ 10.098,75
+09/05/2024;Stefanie;Aluminio;11;R$ 1.637,72
+06/05/2024;Cristiano;Piedade;55;R$ 6.562,36
+06/05/2024;Luciano;Salto de Pirapora;62;R$ 7.788,29
+14/05/2024;Nicole;Piedade;88;R$ 787,53
+11/05/2024;Luciano;Votorantim;42;R$ 1.721,58
+09/05/2024;Stefanie;Votorantim;129;R$ 12.575,28
+06/05/2024;Isabela;Votorantim;36;R$ 2.976,36
+10/05/2024;Stefanie;Piedade;126;R$ 12.835,74
+13/05/2024;Cristiano;Votorantim;140;R$ 8.428,43
+04/05/2024;Cristiano;Sorocaba;108;R$ 3.283,57
+12/05/2024;Isabela;Piedade;136;R$ 5.810,14
+04/05/2024;Stefanie;Sorocaba;71;R$ 10.103,10
+12/05/2024;Nicole;Aluminio;45;R$ 2.464,91
+08/05/2024;Stefanie;Sorocaba;25;R$ 64,79
+10/05/2024;Luciano;Sorocaba;96;R$ 5.666,18
+08/05/2024;Isabela;Salto de Pirapora;74;R$ 382,04
+08/05/2024;Thadeu;Aluminio;113;R$ 10.123,11
+13/05/2024;Isabela;Salto de Pirapora;132;R$ 3.289,61
+08/05/2024;Nicole;Itu;40;R$ 3.676,30
+13/05/2024;Isabela;Salto de Pirapora;12;R$ 935,04
+14/05/2024;Thadeu;Sorocaba;150;R$ 6.501,13
+05/05/2024;Stefanie;Piedade;69;R$ 5.693,66
+13/05/2024;Stefanie;Piedade;110;R$ 2.662,28
+07/05/2024;Isabela;Sorocaba;80;R$ 11.702,13
+05/05/2024;Isabela;Sorocaba;111;R$ 16.008,14
+11/05/2024;Luciano;Sorocaba;91;R$ 2.567,05
+12/05/2024;Stefanie;Sorocaba;19;R$ 1.416,31
+14/05/2024;Luciano;Aluminio;26;R$ 2.418,95
+07/05/2024;Cristiano;Votorantim;122;R$ 12.563,08
+06/05/2024;Cristiano;Salto de Pirapora;36;R$ 2.323,23
+13/05/2024;Cristiano;Sorocaba;129;R$ 101,28
+10/05/2024;Stefanie;Salto de Pirapora;12;R$ 226,71
+09/05/2024;Luciano;Piedade;120;R$ 5.490,92
+08/05/2024;Nicole;Sorocaba;51;R$ 547,18
+10/05/2024;Stefanie;Sorocaba;44;R$ 1.527,66
+11/05/2024;Stefanie;Piedade;65;R$ 1.709,06
+04/05/2024;Nicole;Itu;103;R$ 8.657,69
+12/05/2024;Nicole;Sorocaba;85;R$ 7.362,74
+13/05/2024;Stefanie;Salto de Pirapora;137;R$ 2.798,00
+08/05/2024;Stefanie;Votorantim;131;R$ 12.358,47
+04/05/2024;Cristiano;Salto de Pirapora;85;R$ 6.861,92
+12/05/2024;Isabela;Votorantim;107;R$ 15.837,79
+04/05/2024;Isabela;Salto de Pirapora;26;R$ 2.910,91
+04/05/2024;Luciano;Sorocaba;104;R$ 11.170,91
+06/05/2024;Luciano;Piedade;68;R$ 2.995,38
+07/05/2024;Isabela;Piedade;16;R$ 636,66
+05/05/2024;Isabela;Piedade;98;R$ 6.840,64
+11/05/2024;Stefanie;Salto de Pirapora;69;R$ 2.413,06
+08/05/2024;Thadeu;Sorocaba;52;R$ 3.692,86
+06/05/2024;Isabela;Sorocaba;118;R$ 6.530,19
+14/05/2024;Nicole;Votorantim;61;R$ 816,93
+08/05/2024;Isabela;Sorocaba;19;R$ 412,63
+06/05/2024;Cristiano;Sorocaba;118;R$ 12.168,90
+05/05/2024;Cristiano;Aluminio;17;R$ 1.819,04
+04/05/2024;Nicole;Itu;36;R$ 2.816,58
+08/05/2024;Isabela;Aluminio;21;R$ 2.499,07
+12/05/2024;Thadeu;Votorantim;121;R$ 8.675,97
+07/05/2024;Stefanie;Votorantim;121;R$ 7.082,87
+12/05/2024;Isabela;Aluminio;13;R$ 1.339,40
+06/05/2024;Nicole;Piedade;78;R$ 1.916,69
+13/05/2024;Stefanie;Votorantim;19;R$ 333,34
+13/05/2024;Isabela;Piedade;127;R$ 7.977,25
+10/05/2024;Thadeu;Piedade;77;R$ 8.918,62
+11/05/2024;Luciano;Piedade;49;R$ 2.722,80
+11/05/2024;Nicole;Piedade;80;R$ 1.158,32
+14/05/2024;Stefanie;Aluminio;37;R$ 4.368,85
+09/05/2024;Thadeu;Votorantim;120;R$ 3.957,28
+07/05/2024;Luciano;Votorantim;34;R$ 1.086,59
+10/05/2024;Luciano;Piedade;149;R$ 13.035,16
+10/05/2024;Isabela;Salto de Pirapora;62;R$ 7.586,11
+08/05/2024;Isabela;Sorocaba;148;R$ 17.187,30
+13/05/2024;Stefanie;Itu;137;R$ 15.632,37
+07/05/2024;Nicole;Piedade;56;R$ 5.090,91
+11/05/2024;Nicole;Itu;88;R$ 6.736,42
+08/05/2024;Cristiano;Piedade;28;R$ 2.588,64
+13/05/2024;Thadeu;Piedade;124;R$ 8.525,79
+13/05/2024;Cristiano;Sorocaba;96;R$ 13.727,44
+11/05/2024;Thadeu;Piedade;149;R$ 8.129,61
+06/05/2024;Thadeu;Salto de Pirapora;137;R$ 14.817,00
+10/05/2024;Cristiano;Salto de Pirapora;96;R$ 5.303,11
+06/05/2024;Nicole;Sorocaba;42;R$ 4.196,21
+06/05/2024;Thadeu;Piedade;43;R$ 2.685,09
+06/05/2024;Nicole;Votorantim;97;R$ 14.144,96
+08/05/2024;Stefanie;Aluminio;118;R$ 16.154,77
+12/05/2024;Isabela;Itu;66;R$ 3.311,64
+10/05/2024;Luciano;Votorantim;50;R$ 3.148,18
+14/05/2024;Isabela;Aluminio;117;R$ 14.362,84
+04/05/2024;Luciano;Sorocaba;107;R$ 3.289,28
+05/05/2024;Thadeu;Itu;19;R$ 627,94
+07/05/2024;Nicole;Sorocaba;83;R$ 2.847,33
+13/05/2024;Stefanie;Sorocaba;90;R$ 5.946,43
+07/05/2024;Stefanie;Salto de Pirapora;109;R$ 14.034,41
+07/05/2024;Isabela;Votorantim;72;R$ 10.476,95
+12/05/2024;Thadeu;Piedade;30;R$ 4.364,24
+13/05/2024;Nicole;Salto de Pirapora;62;R$ 4.201,44
+12/05/2024;Cristiano;Aluminio;28;R$ 4.023,34
+13/05/2024;Stefanie;Piedade;100;R$ 2.522,82
+14/05/2024;Stefanie;Aluminio;95;R$ 3.110,57
+09/05/2024;Cristiano;Salto de Pirapora;122;R$ 1.980,94
+05/05/2024;Luciano;Itu;57;R$ 2.814,40
+10/05/2024;Nicole;Salto de Pirapora;91;R$ 8.820,75
+07/05/2024;Isabela;Aluminio;148;R$ 10.415,04
+10/05/2024;Luciano;Aluminio;96;R$ 11.668,13
+11/05/2024;Thadeu;Votorantim;41;R$ 1.917,22
+09/05/2024;Cristiano;Itu;75;R$ 7.651,71
+13/05/2024;Isabela;Piedade;53;R$ 7.699,85
+14/05/2024;Isabela;Itu;53;R$ 4.545,75
+13/05/2024;Isabela;Salto de Pirapora;136;R$ 1.989,61
+09/05/2024;Stefanie;Votorantim;11;R$ 1.315,89
+08/05/2024;Luciano;Aluminio;68;R$ 664,19
+11/05/2024;Stefanie;Itu;112;R$ 3.867,44
+13/05/2024;Cristiano;Itu;107;R$ 10.746,70
+11/05/2024;Stefanie;Votorantim;37;R$ 3.362,85
+12/05/2024;Luciano;Itu;27;R$ 2.099,53
+04/05/2024;Luciano;Sorocaba;22;R$ 690,16
+08/05/2024;Thadeu;Aluminio;25;R$ 509,04
+09/05/2024;Nicole;Aluminio;13;R$ 1.921,96
+11/05/2024;Cristiano;Salto de Pirapora;89;R$ 6.932,47
+08/05/2024;Cristiano;Sorocaba;118;R$ 9.829,19
+13/05/2024;Cristiano;Piedade;127;R$ 10.474,91
+10/05/2024;Cristiano;Piedade;96;R$ 1.455,09
+04/05/2024;Nicole;Aluminio;68;R$ 6.544,11
+09/05/2024;Cristiano;Aluminio;24;R$ 1.952,31
+10/05/2024;Cristiano;Sorocaba;105;R$ 8.668,43
+06/05/2024;Isabela;Votorantim;58;R$ 7.412,97
+13/05/2024;Nicole;Piedade;130;R$ 9.985,77
+06/05/2024;Cristiano;Aluminio;136;R$ 17.770,29
+12/05/2024;Stefanie;Sorocaba;69;R$ 2.758,21
+08/05/2024;Cristiano;Itu;119;R$ 3.783,83
+08/05/2024;Stefanie;Piedade;33;R$ 4.004,57
+09/05/2024;Stefanie;Votorantim;114;R$ 1.860,94
+05/05/2024;Stefanie;Salto de Pirapora;110;R$ 11.857,89
+13/05/2024;Cristiano;Votorantim;31;R$ 2.664,16
+11/05/2024;Stefanie;Votorantim;71;R$ 7.668,64
+09/05/2024;Stefanie;Piedade;73;R$ 142,94
+14/05/2024;Nicole;Aluminio;135;R$ 17.798,06
+07/05/2024;Cristiano;Itu;116;R$ 12.142,67
+07/05/2024;Stefanie;Salto de Pirapora;118;R$ 6.074,80
+04/05/2024;Thadeu;Itu;23;R$ 2.621,23
+11/05/2024;Luciano;Salto de Pirapora;124;R$ 8.864,21
+08/05/2024;Cristiano;Piedade;119;R$ 11.409,56
+08/05/2024;Cristiano;Sorocaba;146;R$ 6.331,47
+05/05/2024;Isabela;Sorocaba;149;R$ 8.089,49
+08/05/2024;Thadeu;Salto de Pirapora;112;R$ 8.627,06
+07/05/2024;Thadeu;Aluminio;88;R$ 2.559,62
+10/05/2024;Stefanie;Salto de Pirapora;10;R$ 1.273,86
+14/05/2024;Luciano;Salto de Pirapora;14;R$ 316,42
+04/05/2024;Luciano;Aluminio;30;R$ 1.238,67
+04/05/2024;Stefanie;Itu;100;R$ 1.438,08
+11/05/2024;Luciano;Salto de Pirapora;50;R$ 1.193,41
+09/05/2024;Thadeu;Aluminio;134;R$ 3.719,79
+09/05/2024;Luciano;Salto de Pirapora;14;R$ 756,93
+04/05/2024;Isabela;Votorantim;68;R$ 6.766,22
+13/05/2024;Nicole;Votorantim;49;R$ 2.238,52
+07/05/2024;Thadeu;Itu;89;R$ 10.734,17
+05/05/2024;Thadeu;Salto de Pirapora;93;R$ 7.231,44
+14/05/2024;Cristiano;Votorantim;34;R$ 157,01
+12/05/2024;Luciano;Sorocaba;17;R$ 333,30
+09/05/2024;Cristiano;Votorantim;123;R$ 18.232,16
+04/05/2024;Luciano;Votorantim;39;R$ 5.131,54
+04/05/2024;Luciano;Votorantim;100;R$ 14.293,98
+09/05/2024;Isabela;Piedade;66;R$ 7.008,34
+06/05/2024;Stefanie;Itu;19;R$ 1.670,58
+08/05/2024;Nicole;Aluminio;59;R$ 8.785,60
+11/05/2024;Cristiano;Itu;14;R$ 1.852,31
+10/05/2024;Nicole;Votorantim;146;R$ 11.056,11
+11/05/2024;Thadeu;Salto de Pirapora;86;R$ 5.045,63
+10/05/2024;Cristiano;Votorantim;90;R$ 4.851,20
+08/05/2024;Stefanie;Sorocaba;55;R$ 1.771,05
+11/05/2024;Thadeu;Sorocaba;90;R$ 31,62
+09/05/2024;Cristiano;Salto de Pirapora;90;R$ 6.296,72
+10/05/2024;Luciano;Aluminio;20;R$ 233,33
+14/05/2024;Luciano;Piedade;91;R$ 9.210,58
+06/05/2024;Nicole;Sorocaba;32;R$ 3.791,14
+10/05/2024;Stefanie;Salto de Pirapora;75;R$ 3.194,07
+05/05/2024;Thadeu;Sorocaba;116;R$ 11.505,70
+07/05/2024;Thadeu;Votorantim;117;R$ 12.131,90
+04/05/2024;Stefanie;Aluminio;55;R$ 3.791,60
+14/05/2024;Thadeu;Salto de Pirapora;97;R$ 12.354,54
+11/05/2024;Thadeu;Salto de Pirapora;62;R$ 5.372,95
+12/05/2024;Nicole;Piedade;66;R$ 8.937,55
+09/05/2024;Isabela;Salto de Pirapora;20;R$ 431,75
+08/05/2024;Cristiano;Itu;98;R$ 10.757,27
+14/05/2024;Stefanie;Sorocaba;63;R$ 5.176,28
+06/05/2024;Nicole;Salto de Pirapora;77;R$ 8.718,11
+07/05/2024;Isabela;Itu;93;R$ 6.401,71
+13/05/2024;Stefanie;Aluminio;17;R$ 2.106,41
+12/05/2024;Cristiano;Salto de Pirapora;28;R$ 1.703,69
+12/05/2024;Thadeu;Piedade;101;R$ 7.564,29
+05/05/2024;Nicole;Piedade;62;R$ 7.555,96
+12/05/2024;Isabela;Votorantim;40;R$ 4.144,49
+10/05/2024;Thadeu;Sorocaba;95;R$ 4.577,68
+11/05/2024;Luciano;Salto de Pirapora;31;R$ 2.105,63
+12/05/2024;Isabela;Sorocaba;133;R$ 10.166,38
+12/05/2024;Nicole;Votorantim;102;R$ 15.157,22
+09/05/2024;Stefanie;Aluminio;62;R$ 3.672,58
+14/05/2024;Isabela;Sorocaba;33;R$ 2.590,92
+11/05/2024;Thadeu;Salto de Pirapora;19;R$ 1.416,29
+14/05/2024;Isabela;Votorantim;123;R$ 13.643,96
+07/05/2024;Isabela;Piedade;46;R$ 721,41
+04/05/2024;Luciano;Piedade;53;R$ 2.675,64
+12/05/2024;Isabela;Piedade;25;R$ 235,98
+06/05/2024;Luciano;Votorantim;35;R$ 2.194,82
+04/05/2024;Cristiano;Votorantim;111;R$ 6.349,54
+11/05/2024;Luciano;Sorocaba;48;R$ 1.371,89
+04/05/2024;Stefanie;Aluminio;120;R$ 16.204,78
+07/05/2024;Luciano;Itu;39;R$ 796,32
+04/05/2024;Cristiano;Aluminio;82;R$ 5.115,99
+10/05/2024;Stefanie;Itu;15;R$ 2.099,14
+12/05/2024;Cristiano;Salto de Pirapora;68;R$ 8.683,30
+07/05/2024;Isabela;Aluminio;64;R$ 3.710,65
+13/05/2024;Cristiano;Sorocaba;68;R$ 8.835,67
+08/05/2024;Thadeu;Votorantim;54;R$ 7.119,28
+07/05/2024;Luciano;Aluminio;65;R$ 1.911,32
+12/05/2024;Stefanie;Itu;32;R$ 469,22
+06/05/2024;Thadeu;Aluminio;145;R$ 21.630,29
+05/05/2024;Nicole;Itu;63;R$ 300,97
+09/05/2024;Cristiano;Aluminio;112;R$ 12.860,94
+12/05/2024;Luciano;Piedade;114;R$ 7.159,82
+13/05/2024;Isabela;Sorocaba;138;R$ 8.301,36
+06/05/2024;Nicole;Piedade;108;R$ 10.637,35
+09/05/2024;Luciano;Sorocaba;28;R$ 3.158,30
+07/05/2024;Luciano;Piedade;131;R$ 3.983,02
+08/05/2024;Stefanie;Votorantim;66;R$ 8.063,84
+07/05/2024;Cristiano;Sorocaba;95;R$ 4.526,27
+10/05/2024;Thadeu;Sorocaba;115;R$ 7.314,59
+07/05/2024;Nicole;Votorantim;78;R$ 10.311,39
+10/05/2024;Nicole;Aluminio;51;R$ 131,02
+12/05/2024;Thadeu;Itu;68;R$ 5.714,74
+10/05/2024;Stefanie;Sorocaba;17;R$ 624,27
+06/05/2024;Nicole;Votorantim;12;R$ 1.420,10
+14/05/2024;Stefanie;Piedade;111;R$ 10.243,06
+09/05/2024;Cristiano;Salto de Pirapora;150;R$ 15.641,48
+06/05/2024;Luciano;Votorantim;101;R$ 11.261,78
+13/05/2024;Nicole;Salto de Pirapora;140;R$ 14.113,85
+09/05/2024;Isabela;Votorantim;45;R$ 6.466,36
+04/05/2024;Isabela;Votorantim;59;R$ 2.288,68
+06/05/2024;Thadeu;Piedade;138;R$ 14.740,28
+13/05/2024;Cristiano;Sorocaba;106;R$ 11.724,99
+13/05/2024;Thadeu;Aluminio;134;R$ 18.381,58
+11/05/2024;Isabela;Sorocaba;55;R$ 7.556,40
+09/05/2024;Stefanie;Aluminio;48;R$ 2.263,51
+05/05/2024;Stefanie;Piedade;129;R$ 4.698,82
+04/05/2024;Nicole;Piedade;104;R$ 1.752,68
+10/05/2024;Luciano;Salto de Pirapora;38;R$ 4.449,06
+06/05/2024;Stefanie;Itu;79;R$ 11.451,33
+07/05/2024;Isabela;Aluminio;22;R$ 2.877,72
+07/05/2024;Isabela;Votorantim;83;R$ 8.370,89
+04/05/2024;Isabela;Salto de Pirapora;130;R$ 18.937,13
+07/05/2024;Nicole;Votorantim;122;R$ 10.941,24
+07/05/2024;Thadeu;Piedade;46;R$ 1.252,27
+11/05/2024;Luciano;Salto de Pirapora;36;R$ 2.947,20
+08/05/2024;Luciano;Sorocaba;67;R$ 6.810,05
+12/05/2024;Cristiano;Salto de Pirapora;13;R$ 60,95
+12/05/2024;Luciano;Votorantim;40;R$ 4.532,03
+07/05/2024;Thadeu;Sorocaba;91;R$ 4.757,15
+06/05/2024;Luciano;Salto de Pirapora;48;R$ 375,86
+05/05/2024;Isabela;Sorocaba;142;R$ 16.709,84
+04/05/2024;Thadeu;Salto de Pirapora;77;R$ 5.176,54
+12/05/2024;Cristiano;Itu;83;R$ 9.526,81
+06/05/2024;Stefanie;Votorantim;38;R$ 895,14
+14/05/2024;Isabela;Itu;96;R$ 12.515,07
+08/05/2024;Thadeu;Aluminio;115;R$ 13.623,62
+13/05/2024;Isabela;Sorocaba;150;R$ 10.310,84
+04/05/2024;Luciano;Sorocaba;98;R$ 1.743,53
+13/05/2024;Thadeu;Votorantim;141;R$ 2.845,84
+10/05/2024;Thadeu;Aluminio;50;R$ 4.024,28
+07/05/2024;Stefanie;Sorocaba;121;R$ 14.764,50
+12/05/2024;Stefanie;Itu;40;R$ 3.082,51
+10/05/2024;Nicole;Itu;75;R$ 5.502,23
+07/05/2024;Luciano;Piedade;23;R$ 2.630,19
+10/05/2024;Luciano;Sorocaba;94;R$ 5.886,92
+10/05/2024;Cristiano;Votorantim;44;R$ 3.431,23
+08/05/2024;Luciano;Aluminio;100;R$ 12.243,45
+08/05/2024;Isabela;Piedade;143;R$ 16.668,17
+04/05/2024;Isabela;Piedade;10;R$ 1.265,32
+06/05/2024;Nicole;Itu;59;R$ 5.882,99
+08/05/2024;Cristiano;Aluminio;21;R$ 26,51
+09/05/2024;Isabela;Votorantim;17;R$ 340,81
+09/05/2024;Stefanie;Votorantim;132;R$ 8.013,64
+07/05/2024;Nicole;Sorocaba;28;R$ 2.415,96
+13/05/2024;Luciano;Aluminio;103;R$ 586,62
+12/05/2024;Luciano;Itu;81;R$ 10.028,11
+08/05/2024;Stefanie;Itu;82;R$ 1.835,72
+07/05/2024;Cristiano;Itu;124;R$ 5.683,31
+07/05/2024;Stefanie;Votorantim;26;R$ 3.743,12
+10/05/2024;Cristiano;Votorantim;137;R$ 20.189,14
+14/05/2024;Thadeu;Itu;75;R$ 403,50
+06/05/2024;Luciano;Salto de Pirapora;45;R$ 87,55
+07/05/2024;Cristiano;Sorocaba;48;R$ 3.630,94
+10/05/2024;Isabela;Itu;142;R$ 12.845,55
+12/05/2024;Cristiano;Aluminio;111;R$ 4.534,12
+04/05/2024;Luciano;Itu;139;R$ 19.374,04
+08/05/2024;Cristiano;Itu;12;R$ 47,22
+08/05/2024;Nicole;Votorantim;49;R$ 2.699,31
+09/05/2024;Nicole;Itu;69;R$ 5.427,55
+06/05/2024;Cristiano;Votorantim;42;R$ 1.695,68
+06/05/2024;Nicole;Sorocaba;99;R$ 14.171,09
+11/05/2024;Thadeu;Votorantim;41;R$ 4.213,01
+08/05/2024;Nicole;Salto de Pirapora;38;R$ 777,13
+10/05/2024;Cristiano;Piedade;48;R$ 7.034,06
+11/05/2024;Stefanie;Aluminio;20;R$ 1.506,56
+07/05/2024;Thadeu;Aluminio;133;R$ 1.402,98
+14/05/2024;Cristiano;Itu;18;R$ 1.904,14
+05/05/2024;Stefanie;Piedade;33;R$ 3.645,63
+11/05/2024;Isabela;Piedade;20;R$ 2.131,70
+12/05/2024;Nicole;Salto de Pirapora;121;R$ 112,68
+07/05/2024;Thadeu;Sorocaba;111;R$ 10.974,12
+14/05/2024;Stefanie;Itu;70;R$ 3.422,30
+11/05/2024;Thadeu;Salto de Pirapora;123;R$ 14.621,90
+10/05/2024;Stefanie;Itu;58;R$ 3.893,52
+13/05/2024;Thadeu;Piedade;11;R$ 1.269,87
+14/05/2024;Isabela;Votorantim;59;R$ 6.661,41
+08/05/2024;Isabela;Itu;104;R$ 469,82
+05/05/2024;Stefanie;Piedade;17;R$ 2.211,94
+12/05/2024;Stefanie;Sorocaba;45;R$ 2.073,69
+12/05/2024;Stefanie;Sorocaba;132;R$ 10.530,48
+07/05/2024;Isabela;Piedade;79;R$ 7.095,28
+06/05/2024;Cristiano;Piedade;63;R$ 7.996,35
+10/05/2024;Luciano;Salto de Pirapora;150;R$ 3.375,24
+14/05/2024;Isabela;Salto de Pirapora;94;R$ 13.526,05
+04/05/2024;Cristiano;Itu;20;R$ 131,03
+09/05/2024;Thadeu;Piedade;106;R$ 11.363,05
+10/05/2024;Stefanie;Aluminio;138;R$ 5.250,59
+04/05/2024;Thadeu;Itu;65;R$ 8.437,21
+13/05/2024;Cristiano;Piedade;65;R$ 6.089,79
+05/05/2024;Luciano;Salto de Pirapora;99;R$ 8.387,75
+13/05/2024;Thadeu;Salto de Pirapora;128;R$ 4.546,15
+07/05/2024;Cristiano;Votorantim;129;R$ 14.794,21
+11/05/2024;Nicole;Piedade;122;R$ 576,38
+14/05/2024;Cristiano;Aluminio;96;R$ 9.131,37
+09/05/2024;Stefanie;Itu;129;R$ 8.585,49
+13/05/2024;Isabela;Salto de Pirapora;51;R$ 4.973,80
+12/05/2024;Cristiano;Votorantim;77;R$ 8.074,78
+11/05/2024;Luciano;Votorantim;13;R$ 230,88
+09/05/2024;Luciano;Sorocaba;48;R$ 631,71
+07/05/2024;Cristiano;Aluminio;33;R$ 432,79
+12/05/2024;Thadeu;Piedade;99;R$ 5.013,78
+05/05/2024;Thadeu;Piedade;24;R$ 994,49
+14/05/2024;Thadeu;Aluminio;74;R$ 4.655,08
+05/05/2024;Nicole;Piedade;76;R$ 10.767,44
+06/05/2024;Nicole;Aluminio;80;R$ 10.784,13
+07/05/2024;Nicole;Piedade;68;R$ 163,33
+10/05/2024;Luciano;Votorantim;101;R$ 6.923,17
+08/05/2024;Stefanie;Sorocaba;43;R$ 4.133,48
+05/05/2024;Cristiano;Salto de Pirapora;95;R$ 11.765,51
+14/05/2024;Isabela;Aluminio;116;R$ 13.857,54
+04/05/2024;Isabela;Piedade;126;R$ 17.258,87
+14/05/2024;Isabela;Salto de Pirapora;75;R$ 858,48
+08/05/2024;Thadeu;Votorantim;85;R$ 3.333,60
+06/05/2024;Luciano;Votorantim;75;R$ 545,97
+05/05/2024;Luciano;Salto de Pirapora;30;R$ 3.788,04
+04/05/2024;Cristiano;Sorocaba;112;R$ 9.694,29
+09/05/2024;Nicole;Aluminio;108;R$ 1.993,41
+09/05/2024;Cristiano;Votorantim;96;R$ 11.262,48
+08/05/2024;Luciano;Itu;53;R$ 6.165,47
+04/05/2024;Luciano;Votorantim;142;R$ 4.508,05
+10/05/2024;Isabela;Aluminio;111;R$ 15.542,17
+04/05/2024;Stefanie;Votorantim;140;R$ 10.948,68
+14/05/2024;Thadeu;Sorocaba;39;R$ 1.364,69
+10/05/2024;Thadeu;Aluminio;98;R$ 5.065,36
+05/05/2024;Stefanie;Aluminio;38;R$ 1.449,88
+12/05/2024;Cristiano;Votorantim;113;R$ 9.565,51
+05/05/2024;Isabela;Sorocaba;132;R$ 4.087,77
+14/05/2024;Luciano;Itu;134;R$ 2.516,20
+05/05/2024;Isabela;Sorocaba;68;R$ 3.703,87
+04/05/2024;Isabela;Salto de Pirapora;87;R$ 64,74
+14/05/2024;Stefanie;Aluminio;70;R$ 4.104,41
+13/05/2024;Luciano;Votorantim;115;R$ 167,24
+13/05/2024;Luciano;Itu;148;R$ 4.621,75
+07/05/2024;Thadeu;Aluminio;80;R$ 10.596,96
+12/05/2024;Cristiano;Sorocaba;98;R$ 4.104,50
+11/05/2024;Stefanie;Itu;46;R$ 478,83
+05/05/2024;Nicole;Salto de Pirapora;123;R$ 12.766,54
+09/05/2024;Isabela;Aluminio;141;R$ 651,05
+12/05/2024;Luciano;Sorocaba;53;R$ 5.518,11
+05/05/2024;Thadeu;Itu;134;R$ 17.970,41
+12/05/2024;Isabela;Salto de Pirapora;26;R$ 2.875,88
+05/05/2024;Isabela;Salto de Pirapora;107;R$ 12.260,67
+11/05/2024;Luciano;Aluminio;105;R$ 2.086,60
+08/05/2024;Nicole;Votorantim;77;R$ 5.888,55
+05/05/2024;Isabela;Aluminio;59;R$ 3.459,67
+11/05/2024;Stefanie;Aluminio;142;R$ 5.926,70
+11/05/2024;Isabela;Sorocaba;19;R$ 1.782,54
+13/05/2024;Thadeu;Salto de Pirapora;65;R$ 623,64
+05/05/2024;Nicole;Salto de Pirapora;85;R$ 5.557,39
+11/05/2024;Luciano;Piedade;147;R$ 13.594,89
+11/05/2024;Stefanie;Votorantim;127;R$ 18.049,33
+07/05/2024;Nicole;Sorocaba;34;R$ 497,56
+14/05/2024;Isabela;Sorocaba;70;R$ 5.837,09
+11/05/2024;Luciano;Itu;87;R$ 4.704,22
+08/05/2024;Thadeu;Itu;136;R$ 10.567,62
+07/05/2024;Stefanie;Aluminio;138;R$ 253,69
+11/05/2024;Luciano;Votorantim;53;R$ 376,32
+07/05/2024;Luciano;Salto de Pirapora;72;R$ 6.160,67
+08/05/2024;Stefanie;Votorantim;82;R$ 5.937,69
+09/05/2024;Isabela;Aluminio;74;R$ 4.247,78
+13/05/2024;Luciano;Salto de Pirapora;58;R$ 6.440,73
+05/05/2024;Isabela;Piedade;86;R$ 12.210,91
+08/05/2024;Cristiano;Piedade;99;R$ 1.238,15
+07/05/2024;Luciano;Aluminio;30;R$ 3.120,94
+06/05/2024;Cristiano;Sorocaba;144;R$ 16.775,56
+12/05/2024;Nicole;Sorocaba;136;R$ 10.783,33
+08/05/2024;Thadeu;Itu;20;R$ 2.772,52
+09/05/2024;Cristiano;Sorocaba;141;R$ 16.749,71
+14/05/2024;Cristiano;Salto de Pirapora;93;R$ 13.008,68
+08/05/2024;Cristiano;Sorocaba;64;R$ 8.986,60
+05/05/2024;Luciano;Piedade;63;R$ 5.448,44
+09/05/2024;Stefanie;Salto de Pirapora;81;R$ 11.767,44
+13/05/2024;Stefanie;Salto de Pirapora;58;R$ 4.554,38
+13/05/2024;Cristiano;Itu;99;R$ 126,00
+06/05/2024;Luciano;Piedade;73;R$ 4.414,43
+05/05/2024;Nicole;Aluminio;83;R$ 2.982,50
+06/05/2024;Cristiano;Aluminio;16;R$ 281,82
+11/05/2024;Thadeu;Aluminio;12;R$ 761,27
+04/05/2024;Luciano;Votorantim;130;R$ 6.513,54
+04/05/2024;Luciano;Salto de Pirapora;88;R$ 5.142,77
+08/05/2024;Luciano;Salto de Pirapora;122;R$ 17.342,91
+04/05/2024;Cristiano;Votorantim;62;R$ 7.967,92
+07/05/2024;Nicole;Piedade;98;R$ 5.073,40
+09/05/2024;Nicole;Piedade;64;R$ 2.833,82
+14/05/2024;Thadeu;Votorantim;23;R$ 1.876,69
+07/05/2024;Nicole;Piedade;49;R$ 2.492,07
+11/05/2024;Thadeu;Sorocaba;26;R$ 3.052,07
+10/05/2024;Luciano;Salto de Pirapora;120;R$ 8.314,19
+11/05/2024;Thadeu;Salto de Pirapora;36;R$ 2.676,04
+10/05/2024;Luciano;Piedade;110;R$ 5.598,44
+05/05/2024;Nicole;Aluminio;50;R$ 5.194,36
+07/05/2024;Isabela;Aluminio;147;R$ 20.543,57
+08/05/2024;Cristiano;Sorocaba;103;R$ 10.827,63
+11/05/2024;Thadeu;Salto de Pirapora;123;R$ 9.476,88
+07/05/2024;Nicole;Votorantim;56;R$ 5.839,24
+07/05/2024;Thadeu;Aluminio;81;R$ 8.848,81
+09/05/2024;Nicole;Itu;99;R$ 7.943,69
+14/05/2024;Isabela;Sorocaba;15;R$ 684,06
+11/05/2024;Stefanie;Piedade;48;R$ 3.117,38
+09/05/2024;Isabela;Piedade;74;R$ 692,29
+11/05/2024;Luciano;Sorocaba;14;R$ 1.873,96
+12/05/2024;Thadeu;Aluminio;92;R$ 3.953,06
+13/05/2024;Isabela;Salto de Pirapora;126;R$ 4.550,96
+13/05/2024;Isabela;Piedade;27;R$ 4.039,36
+10/05/2024;Stefanie;Aluminio;77;R$ 4.464,73
+13/05/2024;Isabela;Sorocaba;108;R$ 1.373,21
+10/05/2024;Cristiano;Votorantim;146;R$ 18.107,65
+12/05/2024;Cristiano;Sorocaba;15;R$ 1.527,45
+12/05/2024;Isabela;Itu;88;R$ 3.065,27
+04/05/2024;Luciano;Salto de Pirapora;143;R$ 15.171,51
+13/05/2024;Thadeu;Sorocaba;25;R$ 2.966,67
+07/05/2024;Nicole;Itu;83;R$ 6.881,89
+14/05/2024;Nicole;Salto de Pirapora;113;R$ 1.294,37
+07/05/2024;Cristiano;Aluminio;85;R$ 6.059,59
+04/05/2024;Cristiano;Itu;61;R$ 4.730,63
+09/05/2024;Nicole;Aluminio;117;R$ 4.556,34
